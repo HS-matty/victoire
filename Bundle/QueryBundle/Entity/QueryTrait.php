@@ -1,4 +1,15 @@
 <?php
+/*
+@seenby HS-matty
+*/
+
+/*
+** Siarhei M. Vauchok  (byqdes@gmail.com)  
+** Support http://myw.dx.am (php_sergey@myw.dx.am)
+** Callto: +375-25-9520051
+*/
+
+
 
 namespace Victoire\Bundle\QueryBundle\Entity;
 
